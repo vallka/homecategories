@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>imagekit</name>
+	<displayName><![CDATA[HomeCategories]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[Displays Top Categories on Homepage]]></description>
+	<author><![CDATA[vallka]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+</module>
